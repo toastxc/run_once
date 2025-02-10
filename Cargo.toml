@@ -1,7 +1,7 @@
 [package]
 name = "run_once"
 description = "Runs code in rust once, from a closure"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "GPL-3.0-only"
 repository = "https://github.com/toastxc/run_once"
